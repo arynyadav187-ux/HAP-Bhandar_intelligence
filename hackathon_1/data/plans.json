@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "IN-GJ-AHM-2025",
+    "name": "Ahmedabad Municipal Heat Action Plan",
+    "state": "Gujarat",
+    "tier": "City",
+    "triggers": {
+      "yellow": 41.1,
+      "orange": 43.1,
+      "red": 45.0,
+      "uncertainty": "Low (Explicit IMD Threshold Table)",
+      "evidence": {
+        "page": 7,
+        "quote": "Table 1: Yellow Alert (41.1°C–43°C), Orange Alert (43.1°C–44.9°C), Red Alert (≥45°C based on IMD 5-day forecast)."
+      }
+    },
+    "departments": [
+      { "dept": "AMC Health Department", "role": "Nodal Agency; activate 65 Urban Health Centres with ORS corners & ice packs", "page": 12 },
+      { "dept": "Labour Commissionerate", "role": "Reschedule outdoor construction hours away from 12:00 PM – 4:00 PM", "page": 15 },
+      { "dept": "AMC Housing & Estate", "role": "Mandatory Cool Roof reflective coating on municipal & low-income housing", "page": 19 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005 & GPMC Act",
+      "section_cited": "Section 30 & Municipal Bylaws",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (Explicit Gazette Backing)",
+      "evidence": {
+        "page": 4,
+        "quote": "Enforced via AMC Cool Roofs Policy and statutory directions issued under the Disaster Management Act, 2005."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "AMC Municipal Health & Climate Resilience Budget Head",
+      "uncertainty": "Low (Dedicated Budget Line)",
+      "evidence": {
+        "page": 24,
+        "quote": "Dedicated budgetary allocation under AMC Health Department climate resilience head for Cool Roofs and ORS procurement."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": true,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-GJ-SUR-2025",
+    "name": "Surat City Heat Action Plan",
+    "state": "Gujarat",
+    "tier": "City",
+    "triggers": {
+      "yellow": 39.0,
+      "orange": 41.0,
+      "red": 43.0,
+      "uncertainty": "Low (Coastal Heat Index Adjusted)",
+      "evidence": {
+        "page": 9,
+        "quote": "Surat Municipal Corporation declares Orange Alert at 41°C and Red Alert at 43°C combined with coastal relative humidity > 55%."
+      }
+    },
+    "departments": [
+      { "dept": "SMC Climate Change Cell", "role": "Coordinate ward-level heat alerts and early warning sirens", "page": 11 },
+      { "dept": "SMC Hospital Board (SMIMER)", "role": "Maintain dedicated heat-stroke isolation beds and IV fluid buffers", "page": 16 }
+    ],
+    "legal": {
+      "act_cited": "Gujarat Provincial Municipal Corporations Act",
+      "section_cited": null,
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (Administrative SOP)",
+      "evidence": {
+        "page": 5,
+        "quote": "Operates as an inter-departmental municipal standard operating procedure under SMC standing committee approval."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "Surat Urban Climate Resilience Trust & SMC Budget",
+      "uncertainty": "Low (Explicit Municipal Outlay)",
+      "evidence": {
+        "page": 22,
+        "quote": "Funded through SMC annual public health budget and Urban Climate Resilience programmatic grants."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-GJ-RAJ-2025",
+    "name": "Rajkot Municipal Heat Action Plan",
+    "state": "Gujarat",
+    "tier": "City",
+    "triggers": {
+      "yellow": 41.0,
+      "orange": 43.0,
+      "red": 44.5,
+      "uncertainty": "Low (Saurashtra Sub-Division Table)",
+      "evidence": {
+        "page": 8,
+        "quote": "RMC activates Red Alert emergency protocols when IMD forecasts maximum temperatures ≥44.5°C across Rajkot urban wards."
+      }
+    },
+    "departments": [
+      { "dept": "RMC Medical Officer of Health", "role": "Surveillance of heat-related morbidity across 21 urban health centres", "page": 14 },
+      { "dept": "Water Works Dept", "role": "Deploy mobile water tankers in high-exposure industrial estates", "page": 18 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": null,
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (Implied Reference Only)",
+      "evidence": {
+        "page": 3,
+        "quote": "Formulated in line with GSDMA and NDMA heatwave management guidelines."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Routine RMC Departmental Allocation",
+      "uncertainty": "High (No Financial Annex)",
+      "evidence": {
+        "page": 25,
+        "quote": "Respective branches of RMC shall utilize existing annual maintenance budgets for summer preparedness."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-MH-PUN-2025",
+    "name": "Pune Municipal Heat Action Plan",
+    "state": "Maharashtra",
+    "tier": "City",
+    "triggers": {
+      "yellow": 40.0,
+      "orange": 42.0,
+      "red": 44.0,
+      "uncertainty": "Low (Explicit IMD Table)",
+      "evidence": {
+        "page": 11,
+        "quote": "Table 2.1: Red Alert is triggered when IMD forecasts maximum temperatures touching or exceeding 44.0°C for two consecutive days."
+      }
+    },
+    "departments": [
+      { "dept": "PMC Health Department", "role": "Establish dedicated 10-bed heatstroke wards in civic hospitals", "page": 14 },
+      { "dept": "Pune Mahanagar Parivahan (PMPML)", "role": "Provide drinking water kiosks at major bus terminals", "page": 17 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": null,
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (Implied Reference Only)",
+      "evidence": {
+        "page": 3,
+        "quote": "Prepared in alignment with NDMA national guidelines under the overarching framework of the Disaster Management Act 2005."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Routine Departmental Operational Budget",
+      "uncertainty": "High (No Financial Annex Found)",
+      "evidence": {
+        "page": 29,
+        "quote": "All nodal and line departments shall absorb expenses from their respective existing annual administrative allocations."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-MH-THN-2025",
+    "name": "Thane City Heat Action Plan",
+    "state": "Maharashtra",
+    "tier": "City",
+    "triggers": {
+      "yellow": 38.5,
+      "orange": 40.5,
+      "red": 42.5,
+      "uncertainty": "Low (Coastal Humidity Adjusted)",
+      "evidence": {
+        "page": 10,
+        "quote": "Accounting for Konkan coastal humidity, Thane triggers Orange Alert at 40.5°C and Red Alert at 42.5°C or Heat Index > 48°C."
+      }
+    },
+    "departments": [
+      { "dept": "TMC Environment Cell", "role": "Nodal coordination and early warning SMS dissemination", "page": 8 },
+      { "dept": "Garden Department", "role": "Keep municipal parks open between 12:00 PM and 4:00 PM for outdoor workers", "page": 16 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": null,
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (Advisory Framework)",
+      "evidence": {
+        "page": 5,
+        "quote": "Serves as a standard operating advisory for TMC departments and private establishments during severe heat spells."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Internal TMC Department Budgets",
+      "uncertainty": "High (Zero Budget Figures Cited)",
+      "evidence": {
+        "page": 25,
+        "quote": "Line departments are instructed to utilize routine operational maintenance budgets for temporary water booths."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": true,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-MH-NAG-2025",
+    "name": "Nagpur Regional Heat Action Plan",
+    "state": "Maharashtra",
+    "tier": "City",
+    "triggers": {
+      "yellow": 42.0,
+      "orange": 44.0,
+      "red": 46.0,
+      "uncertainty": "Low (Explicit Threshold Table)",
+      "evidence": {
+        "page": 9,
+        "quote": "Nagpur local meteorological thresholds: Yellow Alert (42.0°C to 43.9°C), Orange Alert (44.0°C to 45.9°C), Red Alert (≥46.0°C)."
+      }
+    },
+    "departments": [
+      { "dept": "NMC Health Dept", "role": "Heatstroke surveillance across Vidarbha referral hospitals", "page": 13 },
+      { "dept": "Deputy Labour Commissioner", "role": "Issue advisory halting afternoon brick-kiln and construction work", "page": 18 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": "Section 30",
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (No Penal Enforcement Clause)",
+      "evidence": {
+        "page": 5,
+        "quote": "Prepared under Section 30 of the Disaster Management Act, 2005, designating municipal authorities for seasonal preparedness."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Nagpur Municipal Corporation Routine Health Provisions",
+      "uncertainty": "High (Unquantified Contingency)",
+      "evidence": {
+        "page": 22,
+        "quote": "Funding relies on routine municipal health provisions and state disaster response reimbursements where applicable."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-UP-GKP-2025",
+    "name": "Gorakhpur District Heat Action Plan",
+    "state": "Uttar Pradesh",
+    "tier": "District",
+    "triggers": {
+      "yellow": 40.0,
+      "orange": 42.5,
+      "red": 44.5,
+      "uncertainty": "Low (IMD UP East Sub-Division)",
+      "evidence": {
+        "page": 12,
+        "quote": "For Purvanchal plains (Gorakhpur), Red Alert is declared when maximum temperature reaches 44.5°C or departure from normal exceeds 6.4°C."
+      }
+    },
+    "departments": [
+      { "dept": "DDMA Gorakhpur", "role": "Nodal coordination under District Magistrate & Relief Control Room", "page": 6 },
+      { "dept": "Chief Medical Officer (CMO)", "role": "Reserve cold wards in BRD Medical College, District Hospital & CHCs", "page": 15 },
+      { "dept": "Basic Shiksha Adhikari", "role": "Revise school timings to 7:00 AM – 11:30 AM during Orange Alert", "page": 18 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": "Section 31 & 34",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (DM Magisterial Orders)",
+      "evidence": {
+        "page": 4,
+        "quote": "The District Magistrate exercises powers under Section 34 of the DM Act 2005 to mandate school closures and work hour restrictions."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Dependent on UPSDMA Ad-hoc Releases",
+      "uncertainty": "High (No Dedicated District Line Item)",
+      "evidence": {
+        "page": 27,
+        "quote": "Departments shall execute heat mitigation tasks within existing district scheme funds until specific SDRF tranches are notified."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-UP-LKO-2025",
+    "name": "Lucknow Municipal Heat Action Plan",
+    "state": "Uttar Pradesh",
+    "tier": "City",
+    "triggers": {
+      "yellow": 41.0,
+      "orange": 43.0,
+      "red": 45.0,
+      "uncertainty": "Low (Explicit Table)",
+      "evidence": {
+        "page": 9,
+        "quote": "Red Alert threshold for Lucknow urban agglomeration is fixed at 45.0°C maximum temperature for 2 consecutive days."
+      }
+    },
+    "departments": [
+      { "dept": "Lucknow Municipal Corporation (LMC)", "role": "Deploy water sprinklers and shaded waiting zones at major intersections", "page": 14 },
+      { "dept": "UPPCL (LESA)", "role": "Ensure zero transformer tripping in high-density residential zones at night", "page": 20 }
+    ],
+    "legal": {
+      "act_cited": "UP Municipal Corporation Act, 1959",
+      "section_cited": null,
+      "enforceable_penalties": false,
+      "uncertainty": "High (No Enforcement Mechanism Cited)",
+      "evidence": {
+        "page": 6,
+        "quote": "Formulated by LMC in consultation with UPSDMA as an inter-departmental coordination roadmap."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / LMC General Civic Works Budget",
+      "uncertainty": "High (No Dedicated Heat Budget)",
+      "evidence": {
+        "page": 31,
+        "quote": "No separate financial outlay is proposed; works shall be dovetailed with Smart City and AMRUT urban infrastructure funds."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": true,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-UP-JHS-2025",
+    "name": "Jhansi Bundelkhand District HAP",
+    "state": "Uttar Pradesh",
+    "tier": "District",
+    "triggers": {
+      "yellow": 42.5,
+      "orange": 44.5,
+      "red": 46.5,
+      "uncertainty": "Low (Bundelkhand Arid Zone Table)",
+      "evidence": {
+        "page": 8,
+        "quote": "Bundelkhand district thresholds (Jhansi): Orange Alert at 44.5°C and Severe Heatwave Red Alert at ≥46.5°C."
+      }
+    },
+    "departments": [
+      { "dept": "DDMA Jhansi & Jal Sansthan", "role": "Emergency water tankers to drought-prone rural blocks and railway stations", "page": 13 },
+      { "dept": "MGNREGA Cell", "role": "Shift rural employment work timings to 6:00 AM – 11:00 AM with shaded rest tents", "page": 17 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": "Section 30 & 34",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (Magisterial Directive)",
+      "evidence": {
+        "page": 5,
+        "quote": "Issued under the statutory authority of the District Magistrate, Jhansi, pursuant to Section 30 and 34 of the DM Act 2005."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "UP State Disaster Response Fund (SDRF) Bundelkhand Tranche",
+      "uncertainty": "Low (Explicit District SDRF Grant)",
+      "evidence": {
+        "page": 21,
+        "quote": "Dedicated district outlay sanctioned under UPSDMA heatwave & drought relief head for drinking water tankers and Piyau kiosks."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-UP-VNS-2025",
+    "name": "Varanasi Smart City Heat Action Plan",
+    "state": "Uttar Pradesh",
+    "tier": "City",
+    "triggers": {
+      "yellow": 41.0,
+      "orange": 43.0,
+      "red": 45.0,
+      "uncertainty": "Low (Ward-Level HVRA Table)",
+      "evidence": {
+        "page": 11,
+        "quote": "Varanasi Nagar Nigam triggers Red Alert when daily maximum temperature reaches 45.0°C across ghat and old-city monitoring stations."
+      }
+    },
+    "departments": [
+      { "dept": "Varanasi Nagar Nigam", "role": "Install shaded canopies along Dashashwamedh Ghat & high-footfall pilgrim corridors", "page": 16 },
+      { "dept": "Smart City Command Centre (ICCC)", "role": "Broadcast multilingual heatwave alerts via 70+ public address speakers", "page": 19 }
+    ],
+    "legal": {
+      "act_cited": "UP Municipal Corporation Act & DM Act 2005",
+      "section_cited": null,
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (No Private Sector Penalty)",
+      "evidence": {
+        "page": 6,
+        "quote": "Developed jointly by Varanasi Nagar Nigam and DDMA with technical Ward-Level Heat Vulnerability Risk Assessment."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Varanasi Smart City Operational Convergence",
+      "uncertainty": "Medium (Converged Project Funds)",
+      "evidence": {
+        "page": 28,
+        "quote": "Interventions are converged with existing Smart City ICCC operations and municipal health budgets."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-UP-KNP-2025",
+    "name": "Kanpur Nagar District Heat Action Plan",
+    "state": "Uttar Pradesh",
+    "tier": "District",
+    "triggers": {
+      "yellow": 41.5,
+      "orange": 43.5,
+      "red": 45.5,
+      "uncertainty": "Low (Central UP Plains Thresholds)",
+      "evidence": {
+        "page": 10,
+        "quote": "Kanpur Nagar triggers Orange Alert at 43.5°C and Red Alert at 45.5°C or two consecutive Warm Nights (>30°C minimum)."
+      }
+    },
+    "departments": [
+      { "dept": "Kanpur Nagar Nigam & Jal Kal", "role": "Ensure uninterrupted water supply and ORS booths in industrial labour colonies", "page": 14 },
+      { "dept": "Assistant Director of Factories", "role": "Inspect ventilation, cool drinking water, and rest shifts in tannery and textile units", "page": 18 }
+    ],
+    "legal": {
+      "act_cited": "Factories Act, 1948 & Disaster Management Act, 2005",
+      "section_cited": "Section 13 & 18 (Factories Act)",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (Statutory Factory Inspection)",
+      "evidence": {
+        "page": 7,
+        "quote": "Industrial units in Kanpur Nagar are bound under Sections 13 and 18 of the Factories Act, 1948 to maintain thermal comfort and cool water."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Routine Municipal & Industrial Compliance",
+      "uncertainty": "High (No Dedicated Public Budget Line)",
+      "evidence": {
+        "page": 26,
+        "quote": "Civic agencies shall meet expenditure from regular head accounts; industrial units bear internal compliance costs."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-RJ-JOD-2025",
+    "name": "Jodhpur Heat Action Plan",
+    "state": "Rajasthan",
+    "tier": "City",
+    "triggers": {
+      "yellow": 43.0,
+      "orange": 45.0,
+      "red": 47.0,
+      "uncertainty": "Low (Arid Zone Thresholds)",
+      "evidence": {
+        "page": 10,
+        "quote": "Arid western Rajasthan zone thresholds: Yellow (43°C), Orange (45°C), Red Extreme Heat Alert (≥47.0°C)."
+      }
+    },
+    "departments": [
+      { "dept": "Jodhpur Nagar Nigam", "role": "Shade nets at traffic signals and public markets", "page": 13 },
+      { "dept": "PHED (Water Supply)", "role": "Emergency water tankers for peripheral desert settlements", "page": 17 }
+    ],
+    "legal": {
+      "act_cited": null,
+      "section_cited": null,
+      "enforceable_penalties": false,
+      "uncertainty": "High (Zero Statutory Citations)",
+      "evidence": {
+        "page": 2,
+        "quote": "This document provides a voluntary guidance framework for municipal stakeholders and civil society groups in Jodhpur."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / CSR & Philanthropic Contributions",
+      "uncertainty": "High (Relies on Non-State Donors)",
+      "evidence": {
+        "page": 21,
+        "quote": "Implementation of cool roofs and drinking water stations shall be pursued through local CSR partnerships and NGO support."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-RJ-CHU-2025",
+    "name": "Churu Extreme Desert District HAP",
+    "state": "Rajasthan",
+    "tier": "District",
+    "triggers": {
+      "yellow": 44.0,
+      "orange": 46.0,
+      "red": 48.0,
+      "uncertainty": "Low (Thar Desert Extreme Threshold)",
+      "evidence": {
+        "page": 6,
+        "quote": "Given Churu's historical peak temperatures exceeding 50°C, Red Alert emergency response triggers at 48.0°C."
+      }
+    },
+    "departments": [
+      { "dept": "District Collectorate Churu", "role": "Activate block-level cooling shelters and veterinary water troughs", "page": 11 },
+      { "dept": "Jodhpur Discom (JDVVNL)", "role": "Prevent feeder cuts to rural PHCs and drinking water pumping stations", "page": 15 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": "Section 30",
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (District Advisory)",
+      "evidence": {
+        "page": 4,
+        "quote": "Prepared by DDMA Churu under Section 30 of the Disaster Management Act 2005 with ward-level vulnerability mapping."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / District Relief & MGNREGA Convergence",
+      "uncertainty": "High (No Standalone Budget Annex)",
+      "evidence": {
+        "page": 23,
+        "quote": "Shade shelters and water points at worksites shall be funded out of existing MGNREGA administrative contingency."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-OR-BBS-2025",
+    "name": "Bhubaneswar Heat Action Plan",
+    "state": "Odisha",
+    "tier": "City",
+    "triggers": {
+      "yellow": 40.0,
+      "orange": 42.0,
+      "red": 44.0,
+      "uncertainty": "Low (OSDMA Verified Table)",
+      "evidence": {
+        "page": 8,
+        "quote": "OSDMA & BMC trigger Orange warning at 42°C and severe Red Heatwave response at 44°C combined with relative humidity above 60%."
+      }
+    },
+    "departments": [
+      { "dept": "OSDMA & BMC", "role": "Joint command control room and daily media bulletins", "page": 11 },
+      { "dept": "Labour & ESI Dept", "role": "Mandatory halt of outdoor labour between 11:00 AM and 3:30 PM with statutory inspection", "page": 16 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005 & Odisha Labour Rules",
+      "section_cited": "Section 30 & Revenue Disaster Notification",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (Strict Statutory Enforcement)",
+      "evidence": {
+        "page": 5,
+        "quote": "Backed by binding OSDMA statutory notifications and Labour Commissionerate inspection squads empowered to penalize violators."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "Odisha State Disaster Response Fund (SDRF) Heatwave Window",
+      "uncertainty": "Low (Explicit SDRF Allocation)",
+      "evidence": {
+        "page": 23,
+        "quote": "Dedicated financial allocation sanctioned under Odisha SDRF state-specific disaster window for Jalachhatras (water kiosks) and IEC."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-DL-DEL-2025",
+    "name": "Delhi State Heat Wave Action Plan",
+    "state": "Delhi",
+    "tier": "State",
+    "triggers": {
+      "yellow": 40.0,
+      "orange": 42.0,
+      "red": 44.0,
+      "uncertainty": "Low (DDMA Explicit Table)",
+      "evidence": {
+        "page": 9,
+        "quote": "DDMA declares Red Alert across NCT of Delhi when maximum temperatures at Safdarjung/Najafgarh cross 44°C or departure ≥6.5°C."
+      }
+    },
+    "departments": [
+      { "dept": "DDMA & Directorate of Health Services", "role": "Designate 2 beds per Delhi Govt hospital and 5 beds at LNJP for heatstroke", "page": 15 },
+      { "dept": "Delhi Urban Shelter Improvement Board (DUSIB)", "role": "Convert night shelters into daytime cooling centres with water coolers", "page": 19 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": "Section 18 & 24",
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (No Penal Clauses on Private Employers)",
+      "evidence": {
+        "page": 4,
+        "quote": "Prepared by Delhi Disaster Management Authority under Section 18 of the DM Act 2005 for coordinated state agency response."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Departmental Non-Plan Budgets (MCD, NDMC, DUSIB)",
+      "uncertainty": "High (No Consolidated Financial Outlay)",
+      "evidence": {
+        "page": 32,
+        "quote": "Stakeholder agencies (MCD, DJB, DUSIB, Health) shall meet expenditure from their respective allotted annual budgets."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-TG-HYD-2025",
+    "name": "Telangana State & Hyderabad Cool Roof HAP",
+    "state": "Telangana",
+    "tier": "State",
+    "triggers": {
+      "yellow": 40.0,
+      "orange": 42.5,
+      "red": 44.5,
+      "uncertainty": "Low (TSDMA District Matrix)",
+      "evidence": {
+        "page": 7,
+        "quote": "Telangana State Disaster Management Authority triggers Orange Alert at 42.5°C and Red Heatwave Emergency at ≥44.5°C."
+      }
+    },
+    "departments": [
+      { "dept": "MA&UD & GHMC", "role": "Enforce mandatory Cool Roofs prior to occupancy certificate for buildings > 600 sq yds", "page": 12 },
+      { "dept": "Health, Medical & Family Welfare", "role": "Distribute 1.2 Crore ORS packets across Anganwadis and PHCs statewide", "page": 18 }
+    ],
+    "legal": {
+      "act_cited": "Telangana Municipalities Act, 2019 & Cool Roof Policy",
+      "section_cited": "G.O.Ms.No. 63 (Mandatory Building Bylaw)",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (Binding Occupancy Certificate Mandate)",
+      "evidence": {
+        "page": 5,
+        "quote": "Under Telangana Cool Roof Policy (2023–2028), occupancy certificates are withheld unless solar reflective roof standards are met."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "Telangana SDRF (Notify Heatwave as State Specific Disaster)",
+      "uncertainty": "Low (Dedicated State Budget & Ex-Gratia)",
+      "evidence": {
+        "page": 21,
+        "quote": "Telangana notifies heatwave as a State-Specific Disaster, enabling dedicated SDRF allocations and ₹4 Lakh ex-gratia relief."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": true,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-BR-PAT-2025",
+    "name": "Patna & Gaya District Heat Action Plan",
+    "state": "Bihar",
+    "tier": "District",
+    "triggers": {
+      "yellow": 40.0,
+      "orange": 42.0,
+      "red": 44.0,
+      "uncertainty": "Low (BSDMA Loo Protocol)",
+      "evidence": {
+        "page": 8,
+        "quote": "BSDMA declares severe 'Loo' Red Alert when maximum temperatures cross 44.0°C in South Bihar districts (Patna, Gaya, Aurangabad)."
+      }
+    },
+    "departments": [
+      { "dept": "District Magistrate (Patna/Gaya)", "role": "Invoke Section 144/163 BNSS prohibiting outdoor public gatherings & classes 11 AM – 4 PM", "page": 11 },
+      { "dept": "Public Health Engineering Dept (PHED)", "role": "Repair all defunct handpumps (Chapakals) and deploy mobile water tankers", "page": 16 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005 & Section 163 BNSS (144 CrPC)",
+      "section_cited": "Section 34 (DM Act) & prohibitory orders",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (Enforceable Prohibitory Orders)",
+      "evidence": {
+        "page": 6,
+        "quote": "District Magistrates are empowered to issue binding prohibitory orders halting afternoon school operations and MGNREGA digging."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "Bihar State Disaster Response Fund (SDRF)",
+      "uncertainty": "Low (Direct BSDMA District Allotment)",
+      "evidence": {
+        "page": 20,
+        "quote": "Disaster Management Dept, Govt of Bihar releases dedicated pre-summer SDRF allotments to District Collectors for Pyau and ORS."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-TN-CHE-2025",
+    "name": "Greater Chennai City Heat Action Plan",
+    "state": "Tamil Nadu",
+    "tier": "City",
+    "triggers": {
+      "yellow": 37.0,
+      "orange": 39.0,
+      "red": 41.0,
+      "uncertainty": "Low (Coastal Wet-Bulb & Heat Index)",
+      "evidence": {
+        "page": 10,
+        "quote": "For coastal Tamil Nadu (Chennai), Red Alert triggers at 41.0°C dry-bulb or when humid Heat Index exceeds 50°C."
+      }
+    },
+    "departments": [
+      { "dept": "Greater Chennai Corporation (GCC)", "role": "Operate cooling shelters at homeless centres and distribute buttermilk/ORS at bus depots", "page": 14 },
+      { "dept": "Chennai Metro Water (CMWSSB)", "role": "Install 250+ public water tanks in informal coastal fishing settlements", "page": 18 }
+    ],
+    "legal": {
+      "act_cited": "Tamil Nadu Urban Local Bodies Act & DM Act 2005",
+      "section_cited": "G.O. (Ms) No. 482 (Heatwave State Disaster)",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (State-Notified Disaster Backing)",
+      "evidence": {
+        "page": 4,
+        "quote": "Backed by Govt of Tamil Nadu notification declaring heatwave a state-specific disaster eligible for statutory relief and enforcement."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "Tamil Nadu State Disaster Response Fund (SDRF) & GCC Climate Budget",
+      "uncertainty": "Low (Explicit SDRF & Municipal Head)",
+      "evidence": {
+        "page": 24,
+        "quote": "Funded via Tamil Nadu SDRF allocation for water kiosks (Thaneer Pandals) and GCC Climate Action Plan budget."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": true,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-MP-BPL-2025",
+    "name": "Bhopal Municipal & MP State Heat Plan",
+    "state": "Madhya Pradesh",
+    "tier": "State",
+    "triggers": {
+      "yellow": 41.0,
+      "orange": 43.0,
+      "red": 45.0,
+      "uncertainty": "Medium (Embedded in SAPCC Annex)",
+      "evidence": {
+        "page": 14,
+        "quote": "Central India plateau thresholds: Orange Alert declared at 43°C and severe Red Heatwave at ≥45.0°C."
+      }
+    },
+    "departments": [
+      { "dept": "MP SDMA & EPCO", "role": "Issue state-wide advisories to all 55 District Collectors", "page": 17 },
+      { "dept": "Urban Administration & Development", "role": "Ensure shaded bus stops and drinking water at public hospitals", "page": 21 }
+    ],
+    "legal": {
+      "act_cited": null,
+      "section_cited": null,
+      "enforceable_penalties": false,
+      "uncertainty": "High (Policy Guidance Only)",
+      "evidence": {
+        "page": 3,
+        "quote": "Prepared as a thematic sub-component under the Madhya Pradesh State Action Plan on Climate Change (SAPCC)."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Existing Departmental Schemes",
+      "uncertainty": "High (Zero Dedicated Budget Allocation)",
+      "evidence": {
+        "page": 29,
+        "quote": "Line departments shall incorporate heatwave activities within their ongoing annual departmental schemes."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": false,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-AP-VJA-2025",
+    "name": "Vijayawada & Andhra Pradesh State HAP",
+    "state": "Andhra Pradesh",
+    "tier": "State",
+    "triggers": {
+      "yellow": 40.0,
+      "orange": 42.5,
+      "red": 44.5,
+      "uncertainty": "Low (APSDMA Mandal-Level Thresholds)",
+      "evidence": {
+        "page": 9,
+        "quote": "APSDMA real-time weather network triggers Mandal-level Red Alert when temperatures exceed 44.5°C across Coastal Andhra."
+      }
+    },
+    "departments": [
+      { "dept": "APSDMA", "role": "Real-time Mandal-level forecasting across 670 Mandals and cell-broadcast alerts", "page": 12 },
+      { "dept": "Municipal Administration (VMC)", "role": "Operate Chalivendrams (water & buttermilk centres) across Vijayawada", "page": 16 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": "Section 23 & 30",
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (Strong Institutional SOP, No Private Fines)",
+      "evidence": {
+        "page": 5,
+        "quote": "Updated annually by APSDMA under Section 23 of the Disaster Management Act 2005 covering all 26 districts."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "Andhra Pradesh SDRF & Mandal Parishad Funds",
+      "uncertainty": "Low (Explicit Chalivendram & ORS Budget)",
+      "evidence": {
+        "page": 22,
+        "quote": "Specific budgetary allocation sanctioned through APSDMA and municipal bodies for Chalivendrams and heatstroke kits."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": true
+    }
+  }
+  {
+    "id": "IN-KA-BLR-2025",
+    "name": "Bengaluru Climate & Heat Action Plan",
+    "state": "Karnataka",
+    "tier": "City",
+    "triggers": {
+      "yellow": 36.0,
+      "orange": 38.0,
+      "red": 40.0,
+      "uncertainty": "Low (IMD Bangalore Urban Table)",
+      "evidence": {
+        "page": 6,
+        "quote": "Red Alert triggers when temperatures exceed 40°C in tech corridor zones and urban heat island pockets."
+      }
+    },
+    "departments": [
+      { "dept": "BBMP Health Dept", "role": "Establish cooling stations in metro stations and major transit hubs", "page": 14 },
+      { "dept": "Karnataka State Disaster Management Authority", "role": "Coordinate real-time heat alerts via BBMP command centre", "page": 9 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": "Section 30",
+      "enforceable_penalties": false,
+      "uncertainty": "Medium (Advisory Framework)",
+      "evidence": {
+        "page": 3,
+        "quote": "Formulated under NDMA guidelines as a municipal advisory for urban heat mitigation."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "BBMP Municipal Operations & Ward Grants",
+      "uncertainty": "High (No Financial Annex)",
+      "evidence": {
+        "page": 19,
+        "quote": "Mitigation measures shall be supported via routine ward-level emergency maintenance grants."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-WB-CCU-2025",
+    "name": "Kolkata Municipal Heat Action Plan",
+    "state": "West Bengal",
+    "tier": "City",
+    "triggers": {
+      "yellow": 38.0,
+      "orange": 40.0,
+      "red": 42.0,
+      "uncertainty": "Low (Coastal Humid Heat Index Table)",
+      "evidence": {
+        "page": 8,
+        "quote": "Due to high relative humidity in Gangetic West Bengal, Kolkata triggers Red Alert at 42.0°C or effective Heat Index > 52°C."
+      }
+    },
+    "departments": [
+      { "dept": "Kolkata Municipal Corporation (KMC)", "role": "Deploy drinking water vats and oral rehydration kiosks across tram and bus depots", "page": 15 },
+      { "dept": "Department of Health & Family Welfare", "role": "Ensure AC heatstroke wards in SSKM and Medical College Kolkata", "page": 19 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005 & West Bengal Relief Code",
+      "section_cited": "Section 30",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (State Notification)",
+      "evidence": {
+        "page": 4,
+        "quote": "Backed by state disaster management notifications empowering KMC and district magistrates to regulate work hours."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "West Bengal State Disaster Response Fund (SDRF)",
+      "uncertainty": "Low (Explicit SDRF Head)",
+      "evidence": {
+        "page": 24,
+        "quote": "Dedicated financial allocations provided under WB SDRF for summer drinking water supply and public IEC campaigns."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": true
+    }
+  },
+  {
+    "id": "IN-PB-CHD-2025",
+    "name": "Chandigarh Tri-City Heat Action Plan",
+    "state": "Punjab",
+    "tier": "State",
+    "triggers": {
+      "yellow": 41.0,
+      "orange": 43.0,
+      "red": 45.0,
+      "uncertainty": "Low (IMD Punjab/Haryana Table)",
+      "evidence": {
+        "page": 10,
+        "quote": "Red Alert is declared when maximum temperatures reach 45°C continuously for two days across the plains of Punjab and Chandigarh."
+      }
+    },
+    "departments": [
+      { "dept": "Punjab Revenue & Disaster Management", "role": "Nodal coordination across district administrations and health directorate", "page": 7 },
+      { "dept": "School Education Board", "role": "Mandatory early closure of primary and middle schools by 11:30 AM", "page": 16 }
+    ],
+    "legal": {
+      "act_cited": "Disaster Management Act, 2005",
+      "section_cited": "Section 24 & 34",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (Binding Executive Order)",
+      "evidence": {
+        "page": 5,
+        "quote": "Enforced via binding executive orders issued by the State Executive Committee under Section 24 of the DM Act 2005."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": false,
+      "source": "Unfunded / Routine State Health & Relief Budget",
+      "uncertainty": "High (No Standalone Climate Head)",
+      "evidence": {
+        "page": 28,
+        "quote": "Line departments shall manage heatwave mitigation through existing annual programmatic grants."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": false,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": false,
+      "surveillance_me": false
+    }
+  },
+  {
+    "id": "IN-KL-TVM-2025",
+    "name": "Thiruvananthapuram & Kerala State HAP",
+    "state": "Kerala",
+    "tier": "State",
+    "triggers": {
+      "yellow": 35.0,
+      "orange": 37.0,
+      "red": 39.0,
+      "uncertainty": "Low (KSDMA High-Humidity Thresholds)",
+      "evidence": {
+        "page": 9,
+        "quote": "Due to tropical maritime climate and high humidity, Kerala state issues Red Heat Alert at 39.0°C or apparent temperature > 45°C."
+      }
+    },
+    "departments": [
+      { "dept": "KSDMA", "role": "Issue 'Sunburn' and heat stroke alerts via SMS and coastal loudspeakers", "page": 11 },
+      { "dept": "Labour Commissionerate", "role": "Ban outdoor work between 12 PM and 3 PM for construction and midday meal workers", "page": 17 }
+    ],
+    "legal": {
+      "act_cited": "Kerala Disaster Management Rules & Factories Act",
+      "section_cited": "Section 23",
+      "enforceable_penalties": true,
+      "uncertainty": "Low (Strict Labour Enforcement)",
+      "evidence": {
+        "page": 4,
+        "quote": "Labour department enforces mandatory afternoon work bans under Kerala disaster safety regulations and factory inspection acts."
+      }
+    },
+    "funding": {
+      "has_dedicated_budget": true,
+      "source": "Kerala State Disaster Response Fund (KSDMA Window)",
+      "uncertainty": "Low (Dedicated KSDMA Outlay)",
+      "evidence": {
+        "page": 22,
+        "quote": "Dedicated financial provisions released to districts by KSDMA for 'Thaneer Pandal' (water kiosk) setups."
+      }
+    },
+    "who_elements": {
+      "lead_body": true,
+      "early_warning": true,
+      "public_comms": true,
+      "indoor_heat_reduction": true,
+      "vulnerable_groups": true,
+      "health_preparedness": true,
+      "urban_planning": true,
+      "surveillance_me": true
+    }
+  }
+]
