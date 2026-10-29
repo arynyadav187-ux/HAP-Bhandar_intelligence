@@ -1,2 +1,7 @@
-# HAP-Bhandar_intelligence
-Standardized Heat Action Plan (HAP) Intelligence Platform — AI-powered document extraction, WHO 8-element benchmarking, and legal/financial gap audit for Indian climate resilience.
+# HAP Bhandar (एचएपी भंडार) 
+### Climate Intelligence & Policy Audit OS
+
+* **Hackathon:*HACTOBERFEST X ByteBrawl* 
+* **Track:** Shital & Sajag Bharat (Heat-Resilient and Alert India)
+* **Problem Statement:** PS 4.1 — HAP Bhandar: Bring Heat Action Plans Together
+* **Team Name:** [2 Fast 2 Curious]
